@@ -1,4 +1,4 @@
-# homework problem
+
 '''
 0
 1 0
